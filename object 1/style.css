@@ -1,0 +1,34 @@
+body{
+    background-image: url(download.jpeg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #5e394b;
+}
+#demon{
+    text-align: center;
+    font-size: x-large;
+    color: #884f6b;
+    text-decoration: double;
+}
+#demo{
+    text-align: center;
+    font-size: x-large;
+    color:  #884f6b
+}
+#flower{
+    text-align: center;
+    font-size: x-large;
+    color :  #884f6b
+}
+.noo{
+    text-align: center;
+    font-size: x-large;
+    color :  #884f6b
+}
+.nooo{
+    text-align: center;
+    font-size: x-large;
+    color :  #334b70
+}
